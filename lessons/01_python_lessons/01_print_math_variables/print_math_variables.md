@@ -1,4 +1,4 @@
-# Bootcamp 1
+# Print statements, math, and variables
 <img src="https://i.ytimg.com/vi/N_Ls37qeQ4c/hqdefault.jpg" width="300">
 
 # Before class
@@ -7,13 +7,11 @@
 * Make sure you feel comfortable pushing changes to your course folder to your course github repo
 * Make a folder called `jtc_class_code` wherever you're keeping your JTC content
 
-# Outline of class agenda
-
-Today is our first class of Python Bootcamp material! By the end of the lesson, you'll:
+# Objectives
 
 1. Be able to write python scripts that output or `print` things
-2. Feel comfortable working with the Integer data type
-3. Feel comfortable working with the Float data type
+2. Feel comfortable working with the `Integer` data type
+3. Feel comfortable working with the `Float` data type
 4. Be able to include comments in your python scripts
 5. Feel comfortable assigning and updating variables
 
