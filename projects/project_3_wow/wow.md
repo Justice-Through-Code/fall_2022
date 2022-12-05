@@ -170,6 +170,7 @@ Once your proposals are approved to get started, we'll go over how to break up t
 
 -   No Public APIs
 -   No frontend Javascript library/frameworks (jQuery, React).
+-   No `user` table in your database (Django handles users and authentication in a specific way that is beyond the scope of the MVP)
 -   CSS library frameworks are fine (we recommend [Bootstrap](https://getbootstrap.com/)), however we are not evaluating on your aesthetic chops!
 
 If you would like to add Public APIs or frontend libraries after the MVP is turned in, feel free! These constraints solely pertain to the **minimum** piece of the _minimum viable product_.
@@ -206,7 +207,7 @@ If you would like to add Public APIs or frontend libraries after the MVP is turn
 | Django        | Models                                                                       | 5      | Minimum **one one-to-many** and **one many-to-many relationship** (you can have more) in Django models view                                                                                                                                                                                    |
 | Django        | Form                                                                         | 3      | At least 1 Django form, where the database is updated via a POST request when the form is submitted                                                                                                                                                                                                                                    |
 | Django        | Template Syntax                                                              | 3      | Employ use of at least 2 types of template syntax like `url`, `for loops`, `if/else`, and filters                                                                                                                                                                                                                                      |
-| Other         | No use of Public APIs or additional frontend Javascript libraries/frameworks | 2      | These tools are beyond the scope of the course, so please do not use them for the WOW submission. _After you turn in your WOW for completion of JTC, feel free to add any other tools you wish!_                                                                                                                                       |
+| Other         | No use of Public APIs or additional frontend Javascript libraries/frameworks, or a `user` table | 2      | These tools are beyond the scope of the course, so please do not use them for the WOW submission. _After you turn in your WOW for completion of JTC, feel free to add any other tools you wish!_                                                                                                                                       |
 
 ## Helpful Topics to Review
 
