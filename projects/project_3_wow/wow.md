@@ -33,7 +33,7 @@ Your first challenge for the final WOW project is identifying the MVP for your D
 
 <img src='https://gearheart.io/uploads/pasted_image_0_55d87402ec.png' width=800>
 
-# Proposal Part 1: Wireframes + short written proposal (Due Friday, April 22)
+# Proposal Part 1: Wireframes + short written proposal (Due Wednesday, Decemeber 14th)
 
 **Note:** Most of the actual wireframe building will happen in class, where you'll do a workshop on wireframes then have guided time in your groups to build them.
 
@@ -94,7 +94,7 @@ Clearly state which functionalities in your app would employ these operations. *
 
 <img src='https://wcs.smartdraw.com/website-wireframe/img/wireframe-example-template.png?bn=15100111809' width = 800>
 
-# Proposal Part 2: Models (Due Friday, April 29)
+# Proposal Part 2: E/R Diagram (Due Monday, December 19th)
 
 The next stage of your project after you have defined your MVP and made your wireframe is to diagram out how your database will work. To do this, your group will make an [Entity-Relationship Diagram (ER Diagram)](https://www.lucidchart.com/pages/er-diagrams) using [Diagrams.net](https://www.diagrams.net/).
 
@@ -105,7 +105,7 @@ The next stage of your project after you have defined your MVP and made your wir
 -   The point of the ER Diagram is to map visually what your MVP database will look like. **Your ER Diagram should map directly to your MVP** to outline the models you will create in Django using `models.py` to construct your database
 -   Your ER Diagram **must** outline at least **1 one-to-many** and **1 many-to-many** entity relationship. You may have more if you want.
 
-### Example ER Diagram from the Todo App Project (Part 2)
+### Example ER Diagram ala the Todo App Project
 
 Your ER Diagram should look similar in design to this (with at least one additional table + one-to-many relationship):
 
@@ -127,7 +127,7 @@ All group members should:
 -   Export your ER Diagram as a PDF, then upload the PDF to Courseworks when you're done!
 -   Also, please upload the PDF to your group's Google Drive folder, so your TAs and mentors can see it and help with it.
 
-# WOW Final: Minimum Viable Product (Due Friday, May 27)
+# WOW Final: Minimum Viable Product (Due Sunday, January 15th, 2023)
 
 Just like the previous projects, the final submission for this project will be a link to a public Github repository. No files will need to be uploaded to Courseworks.
 
